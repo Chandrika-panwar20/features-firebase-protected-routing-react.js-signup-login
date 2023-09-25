@@ -1,0 +1,15 @@
+.menubar-link {
+    display: inline-block;
+  
+    margin: 0px 30px;
+    padding: 19px 0px;
+  
+}
+
+.menubar-link a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 21px;
+    line-height: 28px;
+    font-weight: 500;
+}
